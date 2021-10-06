@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masoom Kumar</h1>
-<h3 align="center">A frontend developer from India</h3>
+<h3 align="center">A frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theshuntz&label=Profile%20views&color=0e75b6&style=flat" alt="theshuntz" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://masoom-kumar.netlify.app/](https://masoom-kumar.netlify.app/)
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **masoom.kr04@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://masoom-kumar.netlify.app/](https://masoom-kumar.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
