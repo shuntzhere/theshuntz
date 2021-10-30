@@ -9,7 +9,15 @@
 
 - 👨‍💻 All of my projects are available at [https://masoom-kumar.netlify.app/](https://masoom-kumar.netlify.app/)
 
-<a href="https://app.daily.dev/Shuntz"><img src="https://api.daily.dev/devcards/8ff6b99e4ff649d0b8984ad26d6fb3a9.png?r=i1f" width="400" alt="Masoom Kumar's Dev Card"/></a>
+<a href="https://app.daily.dev/Shuntz" target="blank">
+  <img 
+       width="256" 
+       align="right" 
+       alt="Masoom Kumar's Dev Card"
+       src="https://api.daily.dev/devcards/8ff6b99e4ff649d0b8984ad26d6fb3a9.png?r=i1f" 
+       />
+</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
